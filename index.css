@@ -1,0 +1,15 @@
+.top{
+    text-align: center;
+    background-color: crimson;
+   
+    height: 4rem;
+    border-bottom: 2px;
+    color: white;
+    display: block;
+    margin: 0;
+    padding: 2px;
+}
+
+.content{
+
+}
